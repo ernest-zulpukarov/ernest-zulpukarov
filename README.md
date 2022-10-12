@@ -1,10 +1,15 @@
-<h1>GM <img alt="dg" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="30px"></h1>
+<h1 align="center">Hello <img alt="dg" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="30px"></h1>
 
-## 💻️ Developer - **[NewConnection.xyz](https://newconnection.xyz/)**
+<h2 align="center"> <img alt="dex" src="https://raw.githubusercontent.com/hokage229/hokage229/master/dex.gif" width="30px"> Developer at <a href="https://newconnection.xyz/">NewConnection.xyz</a></h2>
 
-[![hokage229's GitHub stats](https://github-readme-stats.vercel.app/api?username=hokage229&show_icons=true&theme=tokyonight&card_width=500)]()
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hokage229&theme=tokyonight&card_width=500)]()
-<br/>
-[![hokage229's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hokage229&theme=tokyonight&layout=default)]()
-<br/>
+<p align="center">
+   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=hokage229&show_icons=true&theme=tokyonight&card_width=500"/>
+</p>
+
+<p align="center">
+    <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokage229&theme=tokyonight&card_width=500"/>
+</p>
+
+<p align="center">
+    <img alt="waka" src="https://github-readme-stats.vercel.app/api/wakatime?username=hokage229&theme=tokyonight" />
+</p>
