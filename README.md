@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img alt="dg" style="margin-right: 10px" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="50px">
-    <span>Hokage229</span>
     <img alt="dg" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="50px">
+    Hokage229
 </h1>
 
 <h2 align="center">
