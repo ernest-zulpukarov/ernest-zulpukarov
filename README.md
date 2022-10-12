@@ -16,7 +16,7 @@
 
 <p align="center">
     <img alt="langs"
-         src="https://github-readme-stats.vercel.app/api/top-langs/README.md?username=hokage229&theme=tokyonight&card_width=500" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokage229&hide=css,html&theme=tokyonight&card_width=500" />
 </p>
 
 <p align="center">
