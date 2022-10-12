@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img alt="dg" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="30px"></h1>
+<h1 align="center"><img alt="dg" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="30px"> Hello<img alt="dg" src="https://raw.githubusercontent.com/hokage229/hokage229/master/ripqsuad-drain.gif" width="30px"></h1>
 
 <h2 align="center"> <img alt="dex" src="https://raw.githubusercontent.com/hokage229/hokage229/master/dex.gif" width="30px"> Developer at <a href="https://newconnection.xyz/">NewConnection.xyz</a></h2>
 
