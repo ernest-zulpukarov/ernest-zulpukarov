@@ -5,7 +5,7 @@
 
 <h2 align="center">
     <img alt="dex" src="https://raw.githubusercontent.com/hokage229/hokage229/master/laptop.gif" width="50px">
-    Developer at <a href="https://newconnection.xyz/">NewConnection.xyz</a>
+    Hi
 </h2>
 
 <p align="center">
