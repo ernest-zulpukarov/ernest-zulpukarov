@@ -8,16 +8,5 @@
     Hi
 </h2>
 
-<p align="center">
-    <img alt="stats"
-         src="https://github-stats-hokage229.vercel.app/api?username=hokage229&show_icons=true&theme=tokyonight&card_width=500" />
-</p>
-
-<p align="center">
-    <img alt="langs"
-         src="https://github-stats-hokage229.vercel.app/api/top-langs/?username=hokage229&hide=css,html&theme=tokyonight&card_width=500" />
-</p>
-
-<p align="center">
-    <img alt="waka" src="https://github-stats-hokage229.vercel.app/api/wakatime?username=hokage229&theme=tokyonight" />
-</p>
+| <img align="center" src="https://github-stats-seven-blond.vercel.app/api?username=hokage229&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="commits" /> | <img align="center" src="https://github-stats-seven-blond.vercel.app/api/top-langs/?username=hokage229&layout=compact&hide=css,html&theme=tokyonight&hide_border=true" alt="langs"  /> | <img alt="waka" src="https://github-stats-seven-blond.vercel.app/api/wakatime?username=hokage229&theme=tokyonight&hide_border=true&layout=compact" /> |
+| ------------- | ------------- | ------------- |
