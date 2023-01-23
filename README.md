@@ -10,14 +10,14 @@
 
 <p align="center">
     <img alt="stats"
-         src="https://github-readme-stats.vercel.app/api?username=hokage229&show_icons=true&theme=tokyonight&card_width=500" />
+         src="https://github-stats-hokage229.vercel.app/api?username=hokage229&show_icons=true&theme=tokyonight&card_width=500" />
 </p>
 
 <p align="center">
     <img alt="langs"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokage229&hide=css,html&theme=tokyonight&card_width=500" />
+         src="https://github-stats-hokage229.vercel.app/api/top-langs/?username=hokage229&hide=css,html&theme=tokyonight&card_width=500" />
 </p>
 
 <p align="center">
-    <img alt="waka" src="https://github-readme-stats.vercel.app/api/wakatime?username=hokage229&theme=tokyonight" />
+    <img alt="waka" src="https://github-stats-hokage229.vercel.app/api/wakatime?username=hokage229&theme=tokyonight" />
 </p>
